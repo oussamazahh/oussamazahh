@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/oussamzahh/oussamazahh/ouss.svg" alt="Oussama Zahidi" />
+  <img src="https://raw.githubusercontent.com/oussamazahh/oussamazahh/main/ouss.svg" alt="Oussama Zahidi" />
 </h1>
 <h3>Things I code with</h3>
 <p>
