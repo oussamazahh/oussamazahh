@@ -1,3 +1,7 @@
+
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/oussamzahh/oussamazahh/master/ouss.svg" alt="Oussama Zahidi" />
+</h1>
 <h3>Things I code with</h3>
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
