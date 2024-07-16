@@ -16,9 +16,8 @@
 Here are some ideas to get you started:
 -->
 
-<a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5" alt="GitHub Streak" />
-</a>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
