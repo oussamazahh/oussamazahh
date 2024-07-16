@@ -11,7 +11,7 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 <center>
-  <a href="https://github.com/oussamazahh/oussamazahh">
+  <a href="https://github.com/oussamazahh">
     <img src="https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5" alt="GitHub Streak" />
   </a>
 </center>
