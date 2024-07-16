@@ -2,8 +2,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/oussamazahh/oussamazahh/main/ouss.svg" alt="Oussama Zahidi" />
 </h1>
-<h3>Things I code with</h3>
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Tools i use </h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
