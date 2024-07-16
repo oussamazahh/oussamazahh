@@ -4,14 +4,23 @@
 </h1>
 <h2>🚀 Some Tools i use </h2>
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-plain.svg" alt="gcc" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="java" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original-wordmark.svg" alt="eclipse" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-plain.svg" alt="nano" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" alt="ssh" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" alt="vim" width="25" height="25" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="25" height="25" />
 </p>
 <center>
   <a href="https://github.com/oussamazahh">
