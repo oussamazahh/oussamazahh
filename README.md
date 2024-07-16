@@ -27,6 +27,7 @@
     <img src="https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5" alt="GitHub Streak" />
   </a>
 </center>
+<img align="right" src="https://media.giphy.com/media/MFVXn1fmymn0x8H5XH/giphy.gif?cid=790b76119ihbmit5xds5szvd23vkgnar27k7nd4bctkcg7ek&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 <!--
 **oussamazahh/oussamazahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
