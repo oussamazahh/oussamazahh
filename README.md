@@ -10,12 +10,13 @@
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5)](https://git.io/streak-stats)
 <!--
 **oussamazahh/oussamazahh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5)](https://git.io/streak-stats)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
