@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/oussamazahh/oussamazahh/main/ouss.svg" alt="Oussama Zahidi" />
+  <img src="https://raw.githubusercontent.com/oussamazahh/oussamazahh/main/ouss.svg" alt="малыш" />
 </h1>
 <h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an programmer. I also like FIFA 𓄿 ☁️ </samp></h4>
 <h2>🚀 Some Tools i use </h2>
