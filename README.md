@@ -15,9 +15,7 @@
 
 Here are some ideas to get you started:
 -->
-
-  <img src="https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5" alt="GitHub Streak" />
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5)](https://git.io/streak-stats)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
