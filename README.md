@@ -25,3 +25,4 @@ Here are some ideas to get you started:
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5" alt="GitHub Streak" /></a>
