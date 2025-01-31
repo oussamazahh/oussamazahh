@@ -30,6 +30,3 @@
 </center>
 <img align="center" src="https://media.giphy.com/media/MFVXn1fmymn0x8H5XH/giphy.gif?cid=790b76119ihbmit5xds5szvd23vkgnar27k7nd4bctkcg7ek&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=oussamazahh&label=Profile%20Views&icon=5&pretty=false" />
-</a>
