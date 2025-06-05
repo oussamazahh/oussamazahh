@@ -2,7 +2,7 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/oussamazahh/oussamazahh/main/ouss.svg" alt="малыш" />
 </h1>
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a programmer. I also like FIFA 𓄿 ☁️ </samp></h4>
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a programmer 𓄿 ☁️ </samp></h4>
 <h2>🚀 Some Tools i use </h2>
 <p align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="c" width="25" height="25" />
