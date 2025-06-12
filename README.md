@@ -24,7 +24,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" alt="bash" width="25" height="25" />
 </p>
 <center>
-  <a href="https://github.com/oussamazahh">
+  <a href="https://github.com/ousssaman">
     <img src="https://streak-stats.demolab.com?user=oussamazahh&theme=black-ice&border_radius=2.5" alt="GitHub Streak" />
   </a>
 </center>
